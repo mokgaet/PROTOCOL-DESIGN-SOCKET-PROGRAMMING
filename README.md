@@ -1,2 +1,2 @@
 # PROTOCOL-DESIGN-SOCKET-PROGRAMMING
-CSC3002F |Networks Assignment 1
+CSC3002F |Networks Assessmen in Python
